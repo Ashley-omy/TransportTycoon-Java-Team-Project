@@ -197,5 +197,6 @@ Controller
 ![GitLab RepositoryGraph](images/repository_graph.png)
 
 ## チームメンバー
+共にこのプロジェクトに取り組んでくれた留学生の仲間です。効率よく実装を進められるよう議論の上で適切にタスクを分割し、密に連絡を取り合いながら、数か月という限られた期間でゲームを完成させることができました。
 - Gu Qian
 - Nupur Muna Hassan
