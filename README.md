@@ -1,6 +1,6 @@
 # 🚚🚗Transport Tycoon JavaFX Team Project 🛣🌳💶
 
-[（日本語の説明はこちら）](#日本語の説明)
+[（日本語の説明はこちら）](#transport-tycoon-javaチーム開発プロジェクト)
 
 A team-based Java game project inspired by Transport Tycoon, developed as part of a university software development course.
 
@@ -94,9 +94,15 @@ These screenshots demonstrate the collaborative development workflow using GitLa
 ![GitLab IssueBoard](images/issue_board.png)
 ![GitLab RepositoryGraph](images/repository_graph.png)
 
+## Acknowledgements
+
+Big thanks to my teammates for their great collaboration and hard work!
+- Gu Qian
+- Nupur Muna Hassan
+
 ---
 
-## 日本語の説明
+## Transport Tycoon Javaチーム開発プロジェクト
 
 大学の授業でjavaを用いてチーム開発した、Transport Tycoonを模したゲームです。
 Transport Tycoonとは、プレイヤーが交通インフラを建設・運営するシミュレーションゲームです。
@@ -189,3 +195,7 @@ Controller
 
 ![GitLab IssueBoard](images/issue_board.png)
 ![GitLab RepositoryGraph](images/repository_graph.png)
+
+## チームメンバー
+- Gu Qian
+- Nupur Muna Hassan
