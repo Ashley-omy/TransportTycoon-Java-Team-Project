@@ -104,9 +104,9 @@ Big thanks to my teammates for their great collaboration and hard work!
 
 ## Transport Tycoon Javaチーム開発プロジェクト
 
-大学の授業でjavaを用いてチーム開発した、Transport Tycoonを模したゲームです。
+大学の授業で3人のチームを組んで開発した、Transport Tycoonを模したゲームです。
 Transport Tycoonとは、プレイヤーが交通インフラを建設・運営するシミュレーションゲームです。
-ゲームロジック、ユーザー操作、画面描画を分離するため、MVCアーキテクチャに基づいて設計されています。GitLabを使って開発しました。
+ゲームロジック、ユーザー操作、画面描画を分離するため、MVCアーキテクチャに基づいて設計しました。GitLabを使って開発しました。
 
 ## 遊び方
 
